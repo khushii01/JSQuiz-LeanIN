@@ -81,7 +81,7 @@ function restart(){
 	nextBtn.classList.remove('hide');
 	submitBtn.classList.remove('hide');
 	trueBtn.classList.remove('hide');
-	classBtn.classList.remove('hide');
+	falseBtn.classList.remove('hide');
 	score = 0;
 	userScore.innerHTML= score;
 	beginQuiz();
